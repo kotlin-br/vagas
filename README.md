@@ -4,6 +4,8 @@
 
 Espaço para a divulgação de vagas para desenvolvedores Kotlin via issues do Github.
 
+Você também pode [pesquisar e filtrar as vagas deste repositório no openings.dev](https://openings.dev/communities/kotlin-br/vagas). Cada resultado leva à issue original, com os detalhes atualizados e as instruções para candidatura.
+
 ## Como cadastrar uma vaga?
 
 Abra uma [issue](https://github.com/kotlin-br/vagas/issues/new), e no título, coloque o **local**,
